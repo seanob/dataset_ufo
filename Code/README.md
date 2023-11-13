@@ -1,2 +1,2 @@
-# dataset_ufo
-This repository holds data regarding UFO sightings by month going back 3 years.
+# dataset_ufo/code
+Web scraping code used to create the dataset. Updated
